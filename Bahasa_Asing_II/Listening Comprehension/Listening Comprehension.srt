@@ -1,0 +1,124 @@
+1
+00:00:04,366 --> 00:00:05,099
+hello Jett
+
+2
+00:00:05,433 --> 00:00:07,133
+have you ever tried using Linux
+
+3
+00:00:07,133 --> 00:00:08,833
+as your operating system
+
+4
+00:00:09,300 --> 00:00:10,766
+no I haven't
+
+5
+00:00:11,000 --> 00:00:13,566
+isn't it complicated to switch from Windows
+
+6
+00:00:14,133 --> 00:00:16,199
+it can be a bit different at first
+
+7
+00:00:16,533 --> 00:00:18,266
+but once you get used to it
+
+8
+00:00:18,433 --> 00:00:20,166
+it's pretty straightforward
+
+9
+00:00:20,733 --> 00:00:23,399
+what makes Linux different from Windows anyway
+
+10
+00:00:23,900 --> 00:00:25,600
+well for starters
+
+11
+00:00:25,833 --> 00:00:27,433
+Linux is open source
+
+12
+00:00:27,466 --> 00:00:30,666
+so you have more control over how your system operates
+
+13
+00:00:30,933 --> 00:00:32,766
+this sounds interesting
+
+14
+00:00:33,033 --> 00:00:35,366
+but how do you even get started with Linux
+
+15
+00:00:36,266 --> 00:00:37,899
+you can download a distribution
+
+16
+00:00:37,900 --> 00:00:40,366
+like Ubuntu or Fedora for free
+
+17
+00:00:40,366 --> 00:00:42,366
+and install it on your computer
+
+18
+00:00:43,000 --> 00:00:44,166
+oh I see
+
+19
+00:00:44,333 --> 00:00:46,733
+does it involve the same programs as Windows
+
+20
+00:00:47,200 --> 00:00:48,300
+not exactly
+
+21
+00:00:48,300 --> 00:00:50,900
+but there are plenty of alternatives available
+
+22
+00:00:50,900 --> 00:00:53,466
+and most basic software needs are covered
+
+23
+00:00:54,133 --> 00:00:57,999
+I might give it a try where can I learn more about it
+
+24
+00:00:58,600 --> 00:01:01,133
+there are lots of online tutorials and forms
+
+25
+00:01:01,133 --> 00:01:02,333
+dedicated to Linux
+
+26
+00:01:02,800 --> 00:01:04,600
+I can point you in the right direction
+
+27
+00:01:04,600 --> 00:01:05,800
+if you're interested
+
+28
+00:01:06,233 --> 00:01:07,933
+thanks that would be great
+
+29
+00:01:08,100 --> 00:01:10,633
+I'll let you know if I decide to make the switch
+
+30
+00:01:10,933 --> 00:01:11,933
+sure thing
+
+31
+00:01:11,933 --> 00:01:15,333
+I think you'll enjoy exploring the world of Linux
+
